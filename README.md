@@ -96,14 +96,13 @@ npm start
 ## 📺 Скриншоты
 
 **Запуск в терминале**
-[](https://i.postimg.cc/C1wpMjcf/terminal.jpg)
+![terminal](https://github.com/user-attachments/assets/af02ee65-49bc-43ca-80cb-2ca87dcfbebf)
 
 **Вывод эндпоинта /api/products/**
-[](https://i.postimg.cc/Fsd84WhB/endPoint.jpg)
+![endPoint](https://github.com/user-attachments/assets/27b91fba-8826-493b-984e-a2236a88aa98)
 
 **Отображение фронтенда**
-[](https://i.postimg.cc/pdG3vg53/image.jpg)
+![реакт](https://github.com/user-attachments/assets/12acd0c4-8814-4b24-af71-419bd301b47a)
 
 **Гистограмма и ползунки**
-[](https://i.postimg.cc/YqDF1RgM/image.jpg)
-
+![Гистограмма](https://github.com/user-attachments/assets/5473f4da-36ca-4adf-92c5-7f886dc02d55)
