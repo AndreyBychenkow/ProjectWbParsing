@@ -7,8 +7,6 @@
 > ```
 **Если версия ниже 18 — скачайте и установите актуальную с** [официального сайта Node.js](https://nodejs.org/).
 
-![image-m5S8LMmDydQXdSVzXcrm9bDN7RdKB2](https://github.com/user-attachments/assets/22c9dc87-d3d0-4221-bfad-95781e0aeeeb)
-
 # 🐍 Wildberries Parsing Service
 
 **Сбор и аналитика товаров Wildberries: парсер, Django backend, React frontend**
